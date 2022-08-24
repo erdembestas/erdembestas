@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erdem BESTAS
-- 👀 I’m interested in frontend and IoT technologies.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning GoLang
 - 📫  to reach me erdembestaseem@gmail.com
 
 <!---
